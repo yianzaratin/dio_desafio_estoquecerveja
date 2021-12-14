@@ -1,6 +1,18 @@
-<h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
+<p align="center">
+  <img src="./img/dio.png" alt="DIO" title="Digital Innovation One">
+</p>
 
-Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
+<h1 align="center">Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja<br>Digital Innovation One</h1>
+
+<img src="./img/badge.png" title="Badge" width="70" height="70">
+
+Curso do Bootcamp Java Developer da [Digital Innovation One](https://digitalinnovation.one/).
+
+Neste Labs você irá aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos construir testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
+
+
+
+*****************************************************************************
 
 Durante a sessão, serão abordados os seguintes tópicos:
 
